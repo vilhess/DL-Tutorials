@@ -5,7 +5,7 @@ This repository contains a collection of **deep learning tutorials** focusing on
 
 ## Contents  
 
-### 1. Training a Neural Network from Scratch  without using autograd
+### 1. Training a Deep Neural Network Classifier for MNIST digits from Scratch  without using autograd
 - Implements a **one-hidden-layer neural network** with **Batch Normalization** for **MNIST digit classification**.  
 - Training is done **without using autograd**—gradients are computed **mathematically**.  
 - Implemented in both:  
